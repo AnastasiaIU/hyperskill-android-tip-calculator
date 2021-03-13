@@ -4,4 +4,4 @@ My first android project at JetBrains Academy.
 
 The application counts amount of tip.
 
-![Screenshot](assets/Screenshot.png)
+![Screenshot](assets/screenshot.png)
